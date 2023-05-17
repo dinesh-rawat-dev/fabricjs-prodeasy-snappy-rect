@@ -1,5 +1,5 @@
 # fabricjs-prodeasy-snappy-rect
-Created with CodeSandbox
+Mastering Object Snapping in Fabric.js: Introducing the SnappyRect Class
 
 ## Using the SnappyRect Class
 
